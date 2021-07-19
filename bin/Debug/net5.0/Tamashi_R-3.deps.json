@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tamashi_R-3/1.0.0": {
+        "runtime": {
+          "Tamashi_R-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tamashi_R-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

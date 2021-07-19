@@ -1,0 +1,16 @@
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.exe
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.deps.json
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.runtimeconfig.json
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.dll
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\ref\Tamashi_R-3.dll
+C:\Users\DEV\Desktop\Tamashi_R-3\bin\Debug\net5.0\Tamashi_R-3.pdb
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.dll
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\ref\Tamashi_R-3.dll
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.pdb
+C:\Users\DEV\Desktop\Tamashi_R-3\obj\Debug\net5.0\Tamashi_R-3.genruntimeconfig.cache
